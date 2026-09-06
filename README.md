@@ -98,4 +98,4 @@ Runs on http://localhost:5173 — opens straight into the Shop page.
 
 ## Deployment
 
-(adding link here once deployed)
+https://1fi-marketplace-rust.vercel.app/
