@@ -24,50 +24,57 @@ Top Brands and Nearby Stores empty as instructed.
 
 ## Folder structure
 
+```
 1fi-marketplace/
 ├── backend/
-│ ├── models/ -> Product and EMIPlan schemas
-│ ├── routes/ -> API routes
-│ ├── controllers/ -> route handlers
-│ ├── services/ -> data access (Mongo or in-memory fallback)
-│ ├── utils/ -> EMI calculation logic
-│ ├── data/ -> seed JSON files (products, EMI plans)
-│ ├── seed/ -> script to push seed data into MongoDB
-│ └── server.js
+│   ├── models/        Product and EMIPlan schemas
+│   ├── routes/         API routes
+│   ├── controllers/    route handlers
+│   ├── services/       data access (Mongo or in-memory fallback)
+│   ├── utils/          EMI calculation logic
+│   ├── data/           seed JSON files (products, EMI plans)
+│   ├── seed/           script to push seed data into MongoDB
+│   └── server.js
 └── frontend/
-└── src/
-├── api/ -> functions that call the backend
-├── hooks/ -> useProducts, useProductDetail
-├── context/ -> OrderContext (keeps last order across pages)
-├── components/ -> ProductCard, EMIPlanSelector, etc.
-├── pages/ -> ShopPage, MarketplacePage, ProductDetailPage
-└── styles/
-
+    └── src/
+        ├── api/          functions that call the backend
+        ├── hooks/        useProducts, useProductDetail
+        ├── context/      OrderContext (keeps last order across pages)
+        ├── components/   ProductCard, EMIPlanSelector, etc.
+        ├── pages/        ShopPage, MarketplacePage, ProductDetailPage
+        └── styles/
+```
 
 ## How to run it
 
 **Backend:**
 
+```
 cd backend
 npm install
 cp .env.example .env
-npm run seed  (loads sample products + EMI plans into MongoDB)
+npm run seed
 npm run dev
+```
 
 Runs on http://localhost:5000
 
-If MongoDB isn't installed/running, the app still works — it just uses the
-JSON files directly instead. You'll see this in the terminal:
+`npm run seed` loads sample products and EMI plans into MongoDB. If MongoDB
+isn't installed or running, the app still works — it just reads straight
+from the JSON files instead. You'll see this in the terminal:
 
-You will see: [dataStore] Ready. Source: in-memory JSON
-
+```
+[dataStore] Ready. Source: in-memory JSON
+```
 
 **Frontend:**
 
+```
 cd frontend
 npm install
 cp .env.example .env
 npm run dev
+```
 
 Runs on http://localhost:5173 — opens straight into the Shop page.
 
