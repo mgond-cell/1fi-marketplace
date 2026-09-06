@@ -1,0 +1,8 @@
+[
+  { "planId": "e3", "tenureMonths": 3, "interestRatePercent": 0, "isNoCost": true, "processingFee": 0, "minOrderValue": 0 },
+  { "planId": "e6", "tenureMonths": 6, "interestRatePercent": 0, "isNoCost": true, "processingFee": 0, "minOrderValue": 0 },
+  { "planId": "e9", "tenureMonths": 9, "interestRatePercent": 8, "isNoCost": false, "processingFee": 199, "minOrderValue": 0 },
+  { "planId": "e12", "tenureMonths": 12, "interestRatePercent": 0, "isNoCost": true, "processingFee": 0, "minOrderValue": 20000 },
+  { "planId": "e18", "tenureMonths": 18, "interestRatePercent": 10, "isNoCost": false, "processingFee": 299, "minOrderValue": 0 },
+  { "planId": "e24", "tenureMonths": 24, "interestRatePercent": 12, "isNoCost": false, "processingFee": 399, "minOrderValue": 50000 }
+]

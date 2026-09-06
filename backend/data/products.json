@@ -1,0 +1,252 @@
+[
+  {
+    "productId": "p001",
+    "name": "OnePlus 13",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600"
+    ],
+    "description": "Flagship killer with Snapdragon 8 Elite, Hasselblad camera tuning, and 100W fast charging.",
+    "highlights": ["Snapdragon 8 Elite", "50MP Hasselblad camera", "100W SuperVOOC charging", "6.82-inch AMOLED display"],
+    "basePrice": 69999, "mrp": 74999, "rating": 4.6, "ratingCount": 1560,
+    "variants": [
+      { "variantId": "v1", "label": "128GB / Black", "priceDelta": 0, "stock": 14 },
+      { "variantId": "v2", "label": "256GB / Black", "priceDelta": 6000, "stock": 9 },
+      { "variantId": "v3", "label": "128GB / Green", "priceDelta": 0, "stock": 6 }
+    ],
+    "eligibleTenures": [3, 6, 9, 12, 18], "isActive": true
+  },
+  {
+    "productId": "p002",
+    "name": "MacBook Air M3",
+    "brand": "Apple",
+    "category": "Laptops",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=600"
+    ],
+    "description": "Strikingly thin design, blazing-fast M3 chip, and up to 18 hours of battery life. Perfect for work and play.",
+    "highlights": ["Apple M3 chip, 8-core CPU", "13.6-inch Liquid Retina display", "Up to 18 hours battery life", "1080p FaceTime HD camera"],
+    "basePrice": 114900, "mrp": 119900, "rating": 4.8, "ratingCount": 1890,
+    "variants": [
+      { "variantId": "v1", "label": "8GB / 256GB / Midnight", "priceDelta": 0, "stock": 9 },
+      { "variantId": "v2", "label": "16GB / 512GB / Midnight", "priceDelta": 25000, "stock": 4 },
+      { "variantId": "v3", "label": "8GB / 256GB / Starlight", "priceDelta": 0, "stock": 6 }
+    ],
+    "eligibleTenures": [6, 9, 12, 18, 24], "isActive": true
+  },
+  {
+    "productId": "p003",
+    "name": "Samsung Galaxy S25",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600"
+    ],
+    "description": "Flagship performance with a stunning Dynamic AMOLED display and Galaxy AI features built in.",
+    "highlights": ["Snapdragon 8 Gen 4", "6.2-inch Dynamic AMOLED 2X", "50MP triple camera", "Galaxy AI features"],
+    "basePrice": 74999, "mrp": 79999, "rating": 4.5, "ratingCount": 2210,
+    "variants": [
+      { "variantId": "v1", "label": "128GB / Onyx Black", "priceDelta": 0, "stock": 15 },
+      { "variantId": "v2", "label": "256GB / Onyx Black", "priceDelta": 8000, "stock": 8 }
+    ],
+    "eligibleTenures": [3, 6, 9, 12], "isActive": true
+  },
+  {
+    "productId": "p004",
+    "name": "Sony WH-1000XM6",
+    "brand": "Sony",
+    "category": "Audio",
+    "images": [
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=600",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600"
+    ],
+    "description": "Industry-leading noise cancellation with premium sound quality and 30-hour battery life.",
+    "highlights": ["Industry-leading noise cancellation", "30-hour battery life", "Multipoint Bluetooth connection", "Speak-to-chat technology"],
+    "basePrice": 29990, "mrp": 34990, "rating": 4.6, "ratingCount": 980,
+    "variants": [
+      { "variantId": "v1", "label": "Black", "priceDelta": 0, "stock": 20 },
+      { "variantId": "v2", "label": "Silver", "priceDelta": 0, "stock": 11 }
+    ],
+    "eligibleTenures": [3, 6, 9], "isActive": true
+  },
+  {
+    "productId": "p005",
+    "name": "Royal Enfield Classic 350",
+    "brand": "Royal Enfield",
+    "category": "Two-Wheelers",
+    "images": [
+      "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=600",
+      "https://images.unsplash.com/photo-1558980664-10e7170b5df9?w=600"
+    ],
+    "description": "A timeless classic with a thumping 350cc engine, built for comfortable long rides.",
+    "highlights": ["349cc single-cylinder engine", "Dual-channel ABS", "Retro styling with modern comfort", "20.2 bhp power output"],
+    "basePrice": 193000, "mrp": 199000, "rating": 4.4, "ratingCount": 640,
+    "variants": [
+      { "variantId": "v1", "label": "Chrome Black", "priceDelta": 0, "stock": 3 },
+      { "variantId": "v2", "label": "Halcyon Green", "priceDelta": 5000, "stock": 2 }
+    ],
+    "eligibleTenures": [9, 12, 18, 24], "isActive": true
+  },
+  {
+    "productId": "p006",
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "category": "Laptops",
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600"
+    ],
+    "description": "Ultra-portable with an InfinityEdge display, Intel Core Ultra processor, and premium build quality.",
+    "highlights": ["Intel Core Ultra 7", "13.4-inch InfinityEdge display", "16GB LPDDR5x RAM", "512GB SSD"],
+    "basePrice": 129990, "mrp": 139990, "rating": 4.5, "ratingCount": 512,
+    "variants": [
+      { "variantId": "v1", "label": "16GB / 512GB / Platinum", "priceDelta": 0, "stock": 6 }
+    ],
+    "eligibleTenures": [6, 12, 18, 24], "isActive": true
+  },
+  {
+    "productId": "p007",
+    "name": "Google Pixel 9 Pro",
+    "brand": "Google",
+    "category": "Smartphones",
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600"
+    ],
+    "description": "Pure Android experience with the best-in-class computational photography and Tensor G4 chip.",
+    "highlights": ["Google Tensor G4", "50MP camera with Magic Editor", "7 years of OS updates", "6.3-inch Super Actua display"],
+    "basePrice": 84999, "mrp": 89999, "rating": 4.6, "ratingCount": 1120,
+    "variants": [
+      { "variantId": "v1", "label": "128GB / Obsidian", "priceDelta": 0, "stock": 10 },
+      { "variantId": "v2", "label": "256GB / Obsidian", "priceDelta": 9000, "stock": 5 }
+    ],
+    "eligibleTenures": [3, 6, 9, 12], "isActive": true
+  },
+  {
+    "productId": "p008",
+    "name": "Xiaomi 14 Ultra",
+    "brand": "Xiaomi",
+    "category": "Smartphones",
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600"
+    ],
+    "description": "Leica-tuned quad camera system paired with flagship Snapdragon performance.",
+    "highlights": ["Leica optical system", "Snapdragon 8 Gen 3", "90W fast charging", "6.73-inch 2K AMOLED"],
+    "basePrice": 79999, "mrp": 84999, "rating": 4.4, "ratingCount": 730,
+    "variants": [
+      { "variantId": "v1", "label": "256GB / Black", "priceDelta": 0, "stock": 7 }
+    ],
+    "eligibleTenures": [3, 6, 9, 12], "isActive": true
+  },
+  {
+    "productId": "p009",
+    "name": "HP Spectre x360",
+    "brand": "HP",
+    "category": "Laptops",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600"
+    ],
+    "description": "A 2-in-1 convertible laptop with a stunning OLED display and premium gem-cut design.",
+    "highlights": ["Intel Core Ultra 7", "13.5-inch 3K2K OLED touch display", "360-degree hinge", "16GB RAM / 1TB SSD"],
+    "basePrice": 154990, "mrp": 164990, "rating": 4.5, "ratingCount": 340,
+    "variants": [
+      { "variantId": "v1", "label": "16GB / 1TB / Nightfall Black", "priceDelta": 0, "stock": 4 }
+    ],
+    "eligibleTenures": [6, 12, 18, 24], "isActive": true
+  },
+  {
+    "productId": "p010",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=600"
+    ],
+    "description": "The business ultrabook standard — legendary keyboard, MIL-SPEC durability, and all-day battery.",
+    "highlights": ["Intel Core Ultra 7", "14-inch 2.8K OLED display", "MIL-SPEC 810H tested", "Up to 24 hours battery life"],
+    "basePrice": 149990, "mrp": 159990, "rating": 4.6, "ratingCount": 410,
+    "variants": [
+      { "variantId": "v1", "label": "16GB / 512GB / Black", "priceDelta": 0, "stock": 5 }
+    ],
+    "eligibleTenures": [6, 12, 18, 24], "isActive": true
+  },
+  {
+    "productId": "p011",
+    "name": "boAt Rockerz 550",
+    "brand": "boAt",
+    "category": "Audio",
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600",
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=600"
+    ],
+    "description": "Over-ear wireless headphones with punchy bass and up to 20 hours of playback.",
+    "highlights": ["40mm dynamic drivers", "Up to 20 hours playback", "Padded ear cushions", "Bluetooth v5.0"],
+    "basePrice": 1799, "mrp": 3490, "rating": 4.2, "ratingCount": 5400,
+    "variants": [
+      { "variantId": "v1", "label": "Black", "priceDelta": 0, "stock": 40 },
+      { "variantId": "v2", "label": "Grey", "priceDelta": 0, "stock": 25 }
+    ],
+    "eligibleTenures": [3], "isActive": true
+  },
+  {
+    "productId": "p012",
+    "name": "JBL Flip 6",
+    "brand": "JBL",
+    "category": "Audio",
+    "images": [
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=600",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600"
+    ],
+    "description": "Portable waterproof Bluetooth speaker with punchy JBL Pro Sound and 12 hours of playtime.",
+    "highlights": ["IP67 waterproof & dustproof", "12 hours playtime", "PartyBoost compatible", "Vivid color options"],
+    "basePrice": 9999, "mrp": 11999, "rating": 4.5, "ratingCount": 2100,
+    "variants": [
+      { "variantId": "v1", "label": "Black", "priceDelta": 0, "stock": 18 },
+      { "variantId": "v2", "label": "Blue", "priceDelta": 0, "stock": 12 }
+    ],
+    "eligibleTenures": [3, 6], "isActive": true
+  },
+  {
+    "productId": "p013",
+    "name": "TVS Apache RTR 160",
+    "brand": "TVS",
+    "category": "Two-Wheelers",
+    "images": [
+      "https://images.unsplash.com/photo-1558980664-10e7170b5df9?w=600",
+      "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=600"
+    ],
+    "description": "A sporty commuter with race-derived tech, sharp handling, and aggressive styling.",
+    "highlights": ["159.7cc single-cylinder engine", "Single-channel ABS", "Race-tuned suspension", "Digital instrument cluster"],
+    "basePrice": 128000, "mrp": 132000, "rating": 4.3, "ratingCount": 890,
+    "variants": [
+      { "variantId": "v1", "label": "Gloss Black", "priceDelta": 0, "stock": 6 },
+      { "variantId": "v2", "label": "Metallic Red", "priceDelta": 2000, "stock": 4 }
+    ],
+    "eligibleTenures": [9, 12, 18], "isActive": true
+  },
+  {
+    "productId": "p014",
+    "name": "Honda Activa 6G",
+    "brand": "Honda",
+    "category": "Two-Wheelers",
+    "images": [
+      "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=600",
+      "https://images.unsplash.com/photo-1558980664-10e7170b5df9?w=600"
+    ],
+    "description": "India's most trusted scooter — reliable, fuel-efficient, and easy to ride every day.",
+    "highlights": ["109.51cc engine", "Silent start technology", "Combi-brake system", "Best-in-class fuel efficiency"],
+    "basePrice": 80000, "mrp": 83000, "rating": 4.5, "ratingCount": 3200,
+    "variants": [
+      { "variantId": "v1", "label": "Pearl White", "priceDelta": 0, "stock": 10 },
+      { "variantId": "v2", "label": "Matte Grey", "priceDelta": 1000, "stock": 8 }
+    ],
+    "eligibleTenures": [6, 9, 12], "isActive": true
+  }
+]
