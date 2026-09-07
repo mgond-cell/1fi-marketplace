@@ -53,7 +53,6 @@ Top Brands and Nearby Stores empty as instructed.
 cd backend
 npm install
 cp .env.example .env
-npm run seed
 npm run dev
 ```
 
