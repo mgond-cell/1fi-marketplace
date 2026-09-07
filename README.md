@@ -89,12 +89,6 @@ Runs on http://localhost:5173 — opens straight into the Shop page.
   shouldn't wipe itself every time the server restarts. Running `npm run seed`
   is a manual, one-time step when you want to reset the data.
 
-## What's not done
-
-- Top Brands and Nearby Stores are left blank — this was explicitly stated
-  in the assignment.
-- No automated tests — wasn't part of the requirements.
-- Product images are stock photos (Unsplash), not real product photography.
 
 ## Deployment
 
