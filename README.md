@@ -53,6 +53,7 @@ Top Brands and Nearby Stores empty as instructed.
 cd backend
 npm install
 cp .env.example .env
+npm run seed (optional — only if you have MongoDB running locally, skip otherwise)
 npm run dev
 ```
 
